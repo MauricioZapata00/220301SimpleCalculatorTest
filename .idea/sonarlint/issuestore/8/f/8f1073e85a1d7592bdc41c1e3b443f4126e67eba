@@ -1,0 +1,22 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(½âÑûÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(ËÚëİùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËÚëİùÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(§ìëüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§ìëüÿÿÿÿ
+^
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(—ô×ş8µÅƒÃô/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(—ô×ş8ôá€Ãô/
+c
+java:S3457$"AFormat specifiers should be used instead of string concatenation.(Ùåœüÿÿÿÿ8ì€„Ãô/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ùåœüÿÿÿÿ8ì€„Ãô/
+c
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(³©ÎÚşÿÿÿÿ8ì€„Ãô/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(³©ÎÚşÿÿÿÿ8ì€„Ãô/
+^
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(ò´øû8í€„Ãô/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ò´øû8í€„Ãô/
+@
+java:S1068"*Remove this unused "logger" private field.(ƒÃĞñ
